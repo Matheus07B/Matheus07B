@@ -4,9 +4,13 @@ I'm currently a student pursuing a technical course in Information Technology. M
 HTML: Crafting structured and semantic web content.
 <br>
 CSS: Designing and styling web pages to create visually appealing user interfaces.
+<br>
 JavaScript: Adding interactivity and dynamic behavior to websites.
+<br>
 Python: Writing scripts and building applications for various purposes.
+<br>
 Java: Developing robust and scalable applications.
+<br>
 I am enthusiastic about exploring new technologies and finding innovative solutions to challenging problems. Check out my repositories to see some of the projects I've worked on. I'm always open to feedback and collaboration, so feel free to reach out!
 
 
