@@ -6,6 +6,7 @@ I'm currently a student pursuing a technical course in Information Technology. M
 * JavaScript: Adding interactivity and dynamic behavior to websites.
 * Python: Writing scripts and building applications for various purposes.
 * Java: Developing robust and scalable applications.
+* SQL: Managing and querying databases efficiently.
   
 I am enthusiastic about exploring new technologies and finding innovative solutions to challenging problems. Check out my repositories to see some of the projects I've worked on. I'm always open to feedback and collaboration, so feel free to reach out!
 
