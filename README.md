@@ -1,4 +1,4 @@
-Hi there, I'm Matheus! 👋
+## Hi there, I'm Matheus! 👋
 I'm currently a student pursuing a technical course in Information Technology. My passion for technology and coding drives me to constantly learn and improve my skills. I have hands-on experience in several programming languages and technologies, including:
 
 * HTML: Crafting structured and semantic web content.
