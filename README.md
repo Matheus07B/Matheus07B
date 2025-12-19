@@ -64,10 +64,3 @@ I am constantly working to enhance my skills in various fields, from **web devel
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-
----
-<p align="center">
-  <a href="https://github.com/Matheus07B">
-    <img src="https://img.shields.io/github/followers/Matheus07B?label=Follow&style=social" />
-  </a>
-</p>
