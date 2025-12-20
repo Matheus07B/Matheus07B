@@ -4,13 +4,13 @@
   💻 Technology student | 🌐 Web Dev Enthusiast | 🔐 Cybersecurity Explorer
 </p>
 
+# 🚀 About Me  
 ---
-### 🚀 About Me  
 I'm a Technology student with a passion for **development** and **innovation**.  
 I am constantly working to enhance my skills in various fields, from **web development** to **system infrastructure**.
 
+# 🛠️ Practical Experience  
 ---
-### 🛠️ Practical Experience  
 
 - **Development**:  
   Interactive interfaces with **HTML, CSS, JavaScript**, and robust applications using **Python** and **Java**.  
@@ -21,8 +21,8 @@ I am constantly working to enhance my skills in various fields, from **web devel
 - **Services & Infrastructure**:  
   Configuring web servers with **Nginx** and **Apache**, optimizing traffic with **Cloudflare** and reverse proxy.  
 
+# 📚 Currently Studying
 ---
-### 📚 Currently Studying
 - 💠 **Bash & PowerShell (ps1)**  
 - ⚙️ **C & C++**  
 - 🛡️ **Blue & Red Team (Cybersecurity)**  
@@ -43,7 +43,7 @@ I am constantly working to enhance my skills in various fields, from **web devel
 </p>
 
 ---
-### ⚡ Tech Stack  
+# ⚡ Tech Stack  
 
 <p align="center">
   <!-- Web & Dev -->
