@@ -1,17 +1,18 @@
 <h1 align="center">Hi there, I'm Matheus! 👋</h1>
 
 <p align="center">
-  💻 Technology student | 🌐 Web Dev Enthusiast | 🔐 Cybersecurity Explorer
+  💻 Technology student  |  🌐 Web Dev Enthusiast  |  🔐 Cybersecurity Explorer
 </p>
 
+<br />
+
 # 🚀 About Me  
----
 I'm a Technology student with a passion for **development** and **innovation**.  
 I am constantly working to enhance my skills in various fields, from **web development** to **system infrastructure**.
 
-# 🛠️ Practical Experience  
----
+<br />
 
+# 🛠️ Practical Experience
 - **Development**:  
   Interactive interfaces with **HTML, CSS, JavaScript**, and robust applications using **Python** and **Java**.  
 
@@ -21,14 +22,16 @@ I am constantly working to enhance my skills in various fields, from **web devel
 - **Services & Infrastructure**:  
   Configuring web servers with **Nginx** and **Apache**, optimizing traffic with **Cloudflare** and reverse proxy.  
 
+<br />
+
 # 📚 Currently Studying
----
 - 💠 **Bash & PowerShell (ps1)**  
 - ⚙️ **C & C++**  
 - 🛡️ **Blue & Red Team (Cybersecurity)**  
 - 🖥️ **Operating Systems (OS)**  
 
----
+<br />
+
 <p align="center">
   <table>
     <tr>
@@ -42,9 +45,9 @@ I am constantly working to enhance my skills in various fields, from **web devel
   </table>
 </p>
 
----
-# ⚡ Tech Stack  
+<br />
 
+# ⚡ Tech Stack  
 <p align="center">
   <!-- Web & Dev -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
