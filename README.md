@@ -73,7 +73,7 @@ I am constantly working to enhance my skills in various fields, from **web devel
 
 <br />
 
-# 🛠️ Others tecnologies
+# 🛠️ Other technologies
 <p aling="center">
   <!-- Infra & Low-level -->
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
